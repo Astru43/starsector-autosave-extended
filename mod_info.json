@@ -1,0 +1,23 @@
+{
+  "id": "astru43_autosaveextended", # For the convenience of troubleshooters, include your name and the mod name, not just an acronym.
+  "name": "Autosave Extended", # Displayed to the player
+  "author": "Astru43",
+  "utility": true,
+  "version": { "major": '1', "minor": '0', "patch": '0' },
+  "description": "Autosave for 0.98a",
+  "gameVersion": "0.98a-RC7",
+  "jars": [ "jars/autosave.jar" ],
+  "modPlugin": "astru43.autosave.TemplateModPlugin",
+  "dependencies": [
+    {
+      "id": "lw_lazylib",
+      "name": "LazyLib", # Optional (recommended)
+      "version": "3.0.0" # Optional
+    },
+    {
+      "id": "lunalib",
+      "name": "Luna Lib",
+      "version": "2.0.3"
+    }
+  ],
+}
