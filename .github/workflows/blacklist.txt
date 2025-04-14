@@ -12,3 +12,6 @@ DO_NOT_USE
 ^.run/
 .iml$
 banner.png$
+^.idea/
+^.git/
+^src/
