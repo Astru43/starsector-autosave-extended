@@ -1,0 +1,4 @@
+fieldID,fieldName,fieldType,defaultValue,secondaryValue,fieldDescription,minValue,maxValue,tab
+autosave_on_jump,Autosave on jump,Boolean,true,,Create autosave after jumping in or out of system,,,
+autosave_on_transaction,Autosave on transaction,Boolean,true,,Create autosave after market transaction,,,
+autosave_on_battle,Autosave on battle,Boolean,true,,Create autosave after battle,,,

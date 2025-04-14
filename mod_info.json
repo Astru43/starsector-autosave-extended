@@ -6,8 +6,8 @@
   "version": { "major": '1', "minor": '0', "patch": '0' },
   "description": "Autosave for 0.98a",
   "gameVersion": "0.98a-RC7",
-  "jars": [ "jars/autosave.jar" ],
-  "modPlugin": "astru43.autosave.TemplateModPlugin",
+  "jars": [ "jars/autosave-extended.jar" ],
+  "modPlugin": "astru43.autosave.AutosavePlugin",
   "dependencies": [
     {
       "id": "lw_lazylib",

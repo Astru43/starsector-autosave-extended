@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/autosave-continued.iml" filepath="$PROJECT_DIR$/autosave-continued.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autosave-extended.iml" filepath="$PROJECT_DIR$/autosave-extended.iml" />
     </modules>
   </component>
 </project>
